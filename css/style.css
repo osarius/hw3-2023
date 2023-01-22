@@ -22,8 +22,9 @@ p{
 }
 img{
     width: 250px;
-    position:relative;
-    left:37.5%;/*i think this is wrong centering*/
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
     border-style: dashed;
     border-color: #ffffff;
     border-width: 10px;
@@ -93,3 +94,4 @@ footer p{
     padding-bottom: 15px;
     padding-top: 15px;
 }
+
