@@ -78,6 +78,7 @@ div{
     border-style:solid;
     background-color: #008500;
     text-align: left;
+    margin-right: 50px;
     border-bottom: 2px;
     border-left: 5px;
 }
